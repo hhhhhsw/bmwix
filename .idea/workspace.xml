@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c27c35bf-9838-4576-a3ff-f1d427a3c714" name="Changes" comment="gg" />
+    <list default="true" id="c27c35bf-9838-4576-a3ff-f1d427a3c714" name="Changes" comment="gg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ictway-internet-hsw/anaconda3/envs/py_32bit/python.exe",
+    "last_opened_file_path": "C:/Users/ictway-internet-hsw/PycharmProjects/bmwix",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -221,7 +223,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
