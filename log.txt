@@ -151,3 +151,990 @@ INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
 INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
 INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
 INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD [100000] 모의투자 매수주문완료
+INFO:root:OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD  
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 1 34 9201;9001;917;916;302;10;930;931;932;933;945;946;950;951;27;28;307;8019;957;958;918;990;991;992;993;959;924;10010;25;11;12;306;305;970
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD [100000] 모의투자 매수주문완료
+INFO:root:OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD  
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 1 34 9201;9001;917;916;302;10;930;931;932;933;945;946;950;951;27;28;307;8019;957;958;918;990;991;992;993;959;924;10010;25;11;12;306;305;970
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD [100000] 모의투자 매수주문완료
+INFO:root:OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD  
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:hander login 0
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD [100000] 모의투자 매수주문완료
+INFO:root:OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD  
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveChejanData 1 34 9201;9001;917;916;302;10;930;931;932;933;945;946;950;951;27;28;307;8019;957;958;918;990;991;992;993;959;924;10010;25;11;12;306;305;970
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:hander login 0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveTrData 1001 opt10001 opt10001  0
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD [100000] 모의투자 매수주문완료
+INFO:root:OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD  
+INFO:root:OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+INFO:root:OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+INFO:root:OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 15:29:37,637 hander login 0
+2022-04-25 15:29:37,780 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 15:29:37,781 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 15:29:40,826 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 15:29:40,827 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 15:38:16,731 hander login 0
+2022-04-25 15:39:29,120 hander login 0
+2022-04-25 15:40:09,939 hander login 0
+2022-04-25 15:40:10,056 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 15:40:10,057 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 15:40:19,740 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-25 15:41:48,466 hander login 0
+2022-04-25 15:41:48,600 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 15:41:48,602 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 16:11:01,032 hander login 0
+2022-04-25 16:11:01,286 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 16:11:01,288 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 16:22:51,723 hander login 0
+2022-04-25 16:22:51,966 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 16:22:51,967 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 16:28:53,188 hander login 0
+2022-04-25 16:28:53,421 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 16:28:53,422 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 16:29:59,611 hander login 0
+2022-04-25 16:29:59,808 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 16:29:59,809 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 16:30:16,814 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-25 18:03:29,969 hander login 0
+2022-04-25 18:03:30,098 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 18:03:30,100 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 18:03:39,615 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-25 18:03:39,616 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-25 18:03:43,092 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 09:27:54,711 hander login 0
+2022-04-26 09:27:55,035 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 09:27:55,037 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 09:28:01,202 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 09:28:01,204 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:14:31,113 hander login 0
+2022-04-26 10:14:31,254 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:14:31,255 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:15:37,120 hander login 0
+2022-04-26 10:15:37,283 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:15:37,284 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:18:31,184 hander login 0
+2022-04-26 10:18:31,318 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:18:31,319 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:19:59,207 hander login 0
+2022-04-26 10:19:59,341 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:19:59,342 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:20:29,169 hander login 0
+2022-04-26 10:20:29,293 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:20:29,294 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:22:15,228 hander login 0
+2022-04-26 10:22:15,414 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:22:15,415 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:25:06,139 hander login 0
+2022-04-26 10:25:06,266 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:25:06,267 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:26:41,746 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:26:41,747 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:33:00,656 hander login 0
+2022-04-26 10:33:00,781 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:33:00,782 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:34:09,934 hander login 0
+2022-04-26 10:34:10,073 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:34:10,074 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:35:56,830 hander login 0
+2022-04-26 10:35:56,958 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:35:56,959 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:36:36,187 hander login 0
+2022-04-26 10:36:36,339 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:36:36,340 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:42:05,022 hander login 0
+2022-04-26 10:42:05,178 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:42:05,179 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:45:47,716 hander login 0
+2022-04-26 10:45:47,842 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:45:47,844 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:47:17,548 hander login 0
+2022-04-26 10:47:17,693 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:47:17,695 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:48:38,504 hander login 0
+2022-04-26 10:48:38,629 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:48:38,630 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:49:10,244 hander login 0
+2022-04-26 10:49:10,378 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:49:10,379 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:57:50,593 hander login 0
+2022-04-26 10:57:50,729 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:57:50,730 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 10:58:33,496 hander login 0
+2022-04-26 10:58:33,623 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 10:58:33,624 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:02:20,987 hander login 0
+2022-04-26 11:02:21,118 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:02:21,120 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:18:09,508 hander login 0
+2022-04-26 11:18:09,640 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:18:09,641 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:20:41,774 hander login 0
+2022-04-26 11:20:41,899 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:20:41,900 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:23:28,743 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 11:23:34,222 OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD [100000] 모의투자 매수주문완료
+2022-04-26 11:23:34,226 OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD  
+2022-04-26 11:23:34,231 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-26 11:23:38,621 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:23:38,622 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:32:21,936 hander login 0
+2022-04-26 11:32:22,084 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:32:22,085 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:32:51,293 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 11:35:49,601 hander login 0
+2022-04-26 11:35:49,781 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:35:49,782 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:36:19,322 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 11:36:33,538 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 11:42:54,731 hander login 0
+2022-04-26 11:42:54,867 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:42:54,868 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:43:01,460 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 11:44:49,623 hander login 0
+2022-04-26 11:44:49,751 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 11:44:49,753 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 11:44:51,827 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 13:15:46,408 hander login 0
+2022-04-26 13:15:46,552 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:15:46,554 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:23:25,056 hander login 0
+2022-04-26 13:23:25,201 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:23:25,203 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:29:37,694 hander login 0
+2022-04-26 13:29:37,834 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:29:37,836 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:30:36,943 hander login 0
+2022-04-26 13:30:37,081 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:30:37,082 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:31:28,873 hander login 0
+2022-04-26 13:31:29,054 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:31:29,055 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:31:56,351 hander login 0
+2022-04-26 13:31:56,507 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:31:56,509 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:33:05,839 hander login 0
+2022-04-26 13:33:05,971 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:33:05,973 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:35:23,653 hander login 0
+2022-04-26 13:35:23,785 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:35:23,786 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:43:04,641 hander login 0
+2022-04-26 13:43:04,780 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:43:04,781 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 13:44:45,760 hander login 0
+2022-04-26 13:44:45,901 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 13:44:45,902 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:04:04,531 hander login 0
+2022-04-26 14:04:52,802 hander login 0
+2022-04-26 14:05:13,724 hander login 0
+2022-04-26 14:23:43,209 hander login 0
+2022-04-26 14:23:43,348 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:23:43,349 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:24:00,078 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:24:00,138 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:27:42,583 hander login 0
+2022-04-26 14:27:42,748 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:27:42,753 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:27:54,984 hander login 0
+2022-04-26 14:27:55,120 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:27:55,121 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:34:54,878 hander login 0
+2022-04-26 14:35:20,766 hander login 0
+2022-04-26 14:35:20,904 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:35:20,906 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:36:15,754 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:43:28,095 hander login 0
+2022-04-26 14:43:28,249 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:43:28,250 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:43:37,767 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:49:23,241 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:53:41,424 hander login 0
+2022-04-26 14:53:41,557 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:53:41,558 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:53:50,014 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:54:12,289 hander login 0
+2022-04-26 14:54:12,434 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:54:12,435 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:54:49,750 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 14:59:06,651 hander login 0
+2022-04-26 14:59:06,796 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 14:59:06,798 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 14:59:14,236 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:00:58,801 hander login 0
+2022-04-26 15:00:58,942 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:00:58,943 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:01:37,518 hander login 0
+2022-04-26 15:01:37,666 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:01:37,667 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:03:23,551 hander login 0
+2022-04-26 15:03:23,702 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:03:23,703 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:03:30,475 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:05:16,222 hander login 0
+2022-04-26 15:05:16,363 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:05:16,364 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:05:23,376 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:06:47,717 hander login 0
+2022-04-26 15:06:47,859 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:06:47,860 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:06:52,549 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:07:54,325 hander login 0
+2022-04-26 15:07:54,497 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:07:54,498 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:09:00,516 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:18:46,818 hander login 0
+2022-04-26 15:18:46,972 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:18:46,973 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:19:05,524 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:25:10,489 OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD [100000] 모의투자 매수주문완료
+2022-04-26 15:25:10,490 OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KQ_ORD  
+2022-04-26 15:25:10,521 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-26 15:27:48,938 hander login 0
+2022-04-26 15:27:49,076 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:27:49,078 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:27:56,627 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:28:10,873 OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD [100000] 모의투자 매수주문완료
+2022-04-26 15:28:10,874 OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD  
+2022-04-26 15:28:10,938 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-26 15:30:10,328 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-26 15:30:10,333 OnReceiveChejanData 1 34 9201;9001;917;916;302;10;930;931;932;933;945;946;950;951;27;28;307;8019;957;958;918;990;991;992;993;959;924;10010;25;11;12;306;305;970
+2022-04-26 15:30:17,534 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-26 15:30:17,540 OnReceiveChejanData 1 34 9201;9001;917;916;302;10;930;931;932;933;945;946;950;951;27;28;307;8019;957;958;918;990;991;992;993;959;924;10010;25;11;12;306;305;970
+2022-04-26 15:38:53,112 hander login 0
+2022-04-26 15:38:53,251 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:38:53,252 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:42:52,257 hander login 0
+2022-04-26 15:42:52,386 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:42:52,387 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:43:07,256 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-26 15:43:09,723 OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD [RC4058] 모의투자 장종료
+2022-04-26 15:43:09,724 OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD  
+2022-04-26 15:43:24,274 OnReceiveMsg 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD [RC4058] 모의투자 장종료
+2022-04-26 15:43:24,274 OnReceiveTrData 2000 시장가매수 KOA_NORMAL_BUY_KP_ORD  
+2022-04-26 15:44:31,964 hander login 0
+2022-04-26 15:44:32,087 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:44:32,088 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 15:45:47,655 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 15:45:47,656 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:42:41,538 hander login 0
+2022-04-26 16:42:41,669 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:42:41,670 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:44:24,749 hander login 0
+2022-04-26 16:44:24,864 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:44:24,865 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:51:14,070 hander login 0
+2022-04-26 16:51:14,201 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:51:14,202 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:52:06,458 hander login 0
+2022-04-26 16:52:06,588 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:52:06,589 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:52:51,304 hander login 0
+2022-04-26 16:52:51,440 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:52:51,441 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 16:59:25,068 hander login 0
+2022-04-26 16:59:25,201 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 16:59:25,202 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:00:01,955 hander login 0
+2022-04-26 17:00:02,076 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:00:02,077 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:01:11,025 hander login 0
+2022-04-26 17:01:11,145 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:01:11,146 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:03:25,626 hander login 0
+2022-04-26 17:03:25,758 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:03:25,759 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:03:49,271 hander login 0
+2022-04-26 17:03:49,403 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:03:49,404 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:04:24,624 hander login 0
+2022-04-26 17:04:24,747 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:04:24,748 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:07:44,506 hander login 0
+2022-04-26 17:07:44,630 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:07:44,632 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:11:56,282 hander login 0
+2022-04-26 17:11:56,413 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:11:56,414 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:14:56,252 hander login 0
+2022-04-26 17:14:56,371 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:14:56,373 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:15:56,005 hander login 0
+2022-04-26 17:15:56,123 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:15:56,124 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:22:51,937 hander login 0
+2022-04-26 17:22:52,062 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:22:52,063 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:24:48,464 hander login 0
+2022-04-26 17:24:48,595 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:24:48,597 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:25:28,425 hander login 0
+2022-04-26 17:25:28,556 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:25:28,558 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:26:34,380 hander login 0
+2022-04-26 17:26:36,569 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:26:36,573 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:26:37,052 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD [RC4058] 모의투자 장종료
+2022-04-26 17:26:37,053 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD  
+2022-04-26 17:29:48,260 hander login 0
+2022-04-26 17:29:48,384 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:29:48,385 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:29:48,712 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD [RC4058] 모의투자 장종료
+2022-04-26 17:29:48,713 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD  
+2022-04-26 17:34:19,550 hander login 0
+2022-04-26 17:34:19,670 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:34:19,672 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:35:11,382 hander login 0
+2022-04-26 17:35:11,501 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:35:11,503 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:35:45,616 hander login 0
+2022-04-26 17:35:45,754 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:35:45,755 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:36:08,894 hander login 0
+2022-04-26 17:36:09,019 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:36:09,020 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:37:33,014 hander login 0
+2022-04-26 17:37:33,139 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:37:33,141 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:39:23,409 hander login 0
+2022-04-26 17:39:23,531 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:39:23,532 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:40:24,218 hander login 0
+2022-04-26 17:40:24,337 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:40:24,338 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:40:49,430 hander login 0
+2022-04-26 17:40:49,561 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:40:49,562 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:40:49,891 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD [RC4058] 모의투자 장종료
+2022-04-26 17:40:49,892 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD  
+2022-04-26 17:43:17,066 hander login 0
+2022-04-26 17:43:17,197 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-26 17:43:17,199 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-26 17:43:17,522 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD [RC4058] 모의투자 장종료
+2022-04-26 17:43:17,523 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD  
+2022-04-27 09:17:47,114 hander login 0
+2022-04-27 09:17:47,238 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:17:47,239 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:19:54,637 hander login 0
+2022-04-27 09:19:54,775 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:19:54,776 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:19:55,578 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KP_ORD [100000] 모의투자 매도주문완료
+2022-04-27 09:19:55,579 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KP_ORD  
+2022-04-27 09:19:55,581 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-27 09:21:35,794 hander login 0
+2022-04-27 09:21:35,927 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:21:35,928 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:22:05,424 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-27 09:22:08,002 OnReceiveTrData 1001 opt10001 opt10001  0
+2022-04-27 09:24:34,269 hander login 0
+2022-04-27 09:24:34,407 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:24:34,409 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:25:05,127 hander login 0
+2022-04-27 09:25:05,264 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:25:05,266 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:25:05,815 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD [100000] 모의투자 매도주문완료
+2022-04-27 09:25:05,816 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KQ_ORD  
+2022-04-27 09:25:05,820 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-27 09:26:32,587 hander login 0
+2022-04-27 09:26:32,736 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:26:32,739 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:27:38,706 hander login 0
+2022-04-27 09:27:38,830 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:27:38,831 OnReceiveTrData 1000 opw00004 opw00004  
+2022-04-27 09:27:39,236 OnReceiveMsg 2000 시장가매도 KOA_NORMAL_SELL_KP_ORD [100000] 모의투자 매도주문완료
+2022-04-27 09:27:39,237 OnReceiveTrData 2000 시장가매도 KOA_NORMAL_SELL_KP_ORD  
+2022-04-27 09:27:39,244 OnReceiveChejanData 0 35 9201;9203;9205;9001;912;913;302;900;901;902;903;904;905;906;907;908;909;910;911;10;27;28;914;915;938;939;919;920;921;922;923;949;10010;969;819
+2022-04-27 09:34:36,361 hander login 0
+2022-04-27 09:34:36,495 OnReceiveMsg 1000 opw00004 opw00004 [100000] 모의투자 조회완료
+2022-04-27 09:34:36,496 OnReceiveTrData 1000 opw00004 opw00004  
