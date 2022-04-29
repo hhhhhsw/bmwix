@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27c35bf-9838-4576-a3ff-f1d427a3c714" name="Changes" comment="gg">
-      <change afterPath="$PROJECT_DIR$/trade/trade.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/setting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/ui/main.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util/binding_widget.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/binding_widget.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650617301468</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="gg">
+      <created>1651019758694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651019758694</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,8 +274,10 @@
         <watch expression="buy_count" language="Python" />
         <watch expression="int(price.replace(',', '')) / setting.buy_amt" language="Python" />
         <watch expression="int(price.replace(',', '')) " language="Python" />
+        <watch expression="setting.chejan_fid_dic.items()" language="Python" />
         <watch expression="setting.dic_stocks[row['종목명']]" language="Python" />
         <watch expression="range(widget.rowCount())" language="Python" />
+        <watch expression="row[column_name]" language="Python" />
         <watch expression="widget.item(row_num, 0).text()" language="Python" />
         <watch expression="datas[0]" language="Python" />
         <watch expression="self.main.tw_mystocks.item(0, 0)" language="Python" />

@@ -94,4 +94,4 @@ class FormEventSlot:
         if stockname == "":
             QMessageBox.about(self.main, '알림', '매수할 종목을 선택하세요.')
         else:
-            self.main.api.buy0_send_order(setting.dic_stocks[stockname])
+            self.main.api.buy0_send_order(setting.dic_stocks[stockname], self.main.buy_count.text())

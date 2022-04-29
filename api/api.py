@@ -10,6 +10,7 @@ class Api:
 
         self.main = main
         self.fid_list = ["10", "12", "30", "25"]
+        self.fname_list = ["현재가", "등락율", "거래대비", "전일대비기호"]
 
         self.kw = Kiwoom()
         self.comm_connect()
@@ -98,14 +99,6 @@ class Api:
                                          screen=1001)
         return df_stock
 
-    def buy0_send_order(self, code):
-        '''
-        시장가 매수
-        :param code:
-        :return:
-        '''
-        self.kw.SendOrder("시장가매수", "2000", setting.select_accno, 1, code, 10, 0, "03", "")
-
     def sell_send_order(self, accno, order_type, code, quantity, price, hoga):
         '''
         시장가 매도
@@ -114,15 +107,20 @@ class Api:
         '''
         self.kw.SendOrder("시장가매도", "2000", accno, order_type, code, quantity, price, hoga, "")
 
-    def buy0_send_order(self, code):
+    def buy0_send_order(self, code, count):
         '''
         시장가 매수
         :param code:
         :return:
         '''
-        self.kw.SendOrder("시장가매수", "2000", setting.select_accno, 1, code, 10, 0, "03", "")
+        self.kw.SendOrder("시장가매수", "2000", setting.select_accno, 1, code, count, 0, "03", "")
 
     def set_real_reg_mystocks(self, df_mystocks):
+        '''
+        보유 종목 실시간 체결 등록
+        :param df_mystocks:
+        :return:
+        '''
         print("보유종목 실시간 체결 등록")
         self.kw.SetRealRemove("ALL", "ALL");  # 모든 화면에서 모든종목 실시간 해지
         stocks_code = []
@@ -141,23 +139,36 @@ class Api:
         '''
         if real_type == "주식체결":
             stockname = setting.dic_stocks_code[code]
-            mystocks_realdata = [stockname]  # 실시간 종목정보 [종목명, 현재가, 등락율, 거래대비, 전일대비기호]
-            for fid in self.fid_list:
-                mystocks_realdata.append(self.kw.GetCommRealData(code, int(fid)))
 
-            # print("[실시간 체결 응답 : api._handler_real_data] : %s" % mystocks_realdata)
 
-            binding_widget.binding_mystocks_realdata(self.main.tw_mystocks, mystocks_realdata)
 
-            # 손익율이 목표수익율을 넘으면 시장가 매도
-            mystock_data = {}  # 보유 종목 중 체결된 종목의 현재정보 저장
-            row_num = setting.dic_mystocks_tablewidget_index[stockname]
+            # 체결 종목의 보유 정보 수집
+            mystock_data = {}  # 체결된 정보의 보유현황 정보
+            # ['종목명', '손익금액', '손익율', '매입금액', '보유수량', '평균단가', '현재가', '등락율', '거래대비', '전일대비기호']
+            row_num = setting.dic_mystocks_tablewidget_index[stockname]  # 체결종목의 row
             for cols in range(self.main.tw_mystocks.columnCount()):
                 column_header = setting.column_headers["my_accounts"][cols]  # 보유종목 테이블 헤더
                 item = self.main.tw_mystocks.item(row_num, cols)  # 보유종목 테이블 item
                 if item is not None:
                     mystock_data[column_header] = item.text().replace(",", "").replace("%", "")
+                    # mystock_data.append(item.text().replace(",", "").replace("%", ""))
                 else:
                     mystock_data[column_header] = ""
+                    # mystock_data.append("")
+
+            # self.fid_list = ["10", "12", "30", "25"]
+            # self.fname_list = ["현재가", "등락율", "거래대비", "전일대비기호"]
+            for i, fid in self.fid_list:
+                # mystock_data.append(self.kw.GetCommRealData(code, int(fid)))
+                mystock_data[self.fname_list[i]] = self.kw.GetCommRealData(code, int(fid))
+
+            mystock_data["손익금액"] = (mystock_data["현재가"] - mystock_data["평균단가"]) * mystock_data["보유수량"]
+            mystock_data["손익율"] = (mystock_data["현재가"] - mystock_data["평균단가"]) / mystock_data["손익율"] * 100
+
+            #  보유종목 테이블 데이터 실시간 변경
+            binding_widget.binding_mystocks_realdata(self.main.tw_mystocks, mystock_data)
+
+                    
+            #  종목 자동 매수/매도 트레이딩
             self.main.tr.trading(mystock_data)
 

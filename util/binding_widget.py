@@ -59,12 +59,24 @@ def binding_combobox(widget, data):
     widget.addItems(data)
 
 
-def binding_mystocks_realdata(widget, datas):
+def binding_mystocks_realdata(widget, datas, row_num):
+    for cols in range(widget.columnCount()):
+        if widget.horizontalHeaderItem(cols).text() == "수익금액":
+            widget.setItem(row_num, cols, QTableWidgetItem(datas["수익금액"]))
+        if widget.horizontalHeaderItem(cols).text() == "손익율":
+            widget.setItem(row_num, cols, QTableWidgetItem(datas["손익율"]))
+        if widget.horizontalHeaderItem(cols).text() == "등락율":
+            widget.setItem(row_num, cols, QTableWidgetItem(datas["등락율"]))
+        if widget.horizontalHeaderItem(cols).text() == "거래대비":
+            widget.setItem(row_num, cols, QTableWidgetItem(datas["거래대비"]))
+        if widget.horizontalHeaderItem(cols).text() == "전일대비기호":
+            widget.setItem(row_num, cols, QTableWidgetItem(datas["전일대비기호"]))
 
-    row_num = setting.dic_mystocks_tablewidget_index[datas[0]]
 
-    # 현재가
-    for i in range(6, 10):
+
+
+'''
+    for i in range(10):
         value = datas[1]
 
         if value.startswith("-"):
@@ -85,3 +97,4 @@ def binding_mystocks_realdata(widget, datas):
         item.setTextAlignment(Qt.AlignVCenter | Qt.AlignRight)
 
         widget.setItem(row_num, i, QTableWidgetItem(item))  # 현재가
+'''
